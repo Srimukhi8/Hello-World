@@ -1,2 +1,1 @@
-# Hello-World
-This repository is for practicing the GitHub flow
+Hello I am Srimukhi. I am practicing GitHub. I am applying for the GUNN Project.
